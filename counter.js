@@ -21,4 +21,3 @@ function createCounter(n) {
   
   console.log(myCounter()); // Output: 10
   console.log(myCounter()); // Output: 11
-  
